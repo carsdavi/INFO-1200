@@ -76,3 +76,20 @@ if __name__ == "__main__":
     main()
 
     
+Create a new Python file, saving the file with this naming format LastNameFirstName_FinalQ2.py, that includes 5 of the 8 items listed:
+
+YOU MUST HAVE A LINE OF PSEUDOCODE FOR ALL LINES OF SOURCE CODE
+
+The program MUST be uniquely created during the final exam time. A previously created or submitted program, participation, or project may NOT be submitted and will NOT be accepted for credit. A separate question follows for uploading the created Python (.py) file.
+
+Items:
+
+ Input validated as a float number (Must not break if "Ten" is an input).
+ Display a value rounded to 3 decimal places
+ Create an if-elif-else statement
+ Read a .csv or .txt file
+ Write to a .csv or .txt file
+ For loop and print all items inside the loop
+ List that holds a two-dimensional list
+ GUI with at least one control
+Describe each option you chose to implement in the text box provided.
